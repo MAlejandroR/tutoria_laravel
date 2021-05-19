@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="293e8983-0bdb-4236-a9dd-c7ab1cae03de" name="vesta" url="http://infenlaces.com">
+        <fileTransfer rootFolder="/web/manuel.infenlaces.com/public_html/distancia/dwes" host="infenlaces.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

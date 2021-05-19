@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/instituto/proyectos_2020/Juan Francisco Puerto/.idea/Juan Francisco Puerto.iml" filepath="$USER_HOME$/instituto/proyectos_2020/Juan Francisco Puerto/.idea/Juan Francisco Puerto.iml" />
+      <module fileurl="file://$USER_HOME$/instituto/proyectos_2020/Luis Miguel Deza/.idea/Luis Miguel Deza.iml" filepath="$USER_HOME$/instituto/proyectos_2020/Luis Miguel Deza/.idea/Luis Miguel Deza.iml" />
+      <module fileurl="file:///var/www/PDO/.idea/PDO.iml" filepath="/var/www/PDO/.idea/PDO.iml" />
+      <module fileurl="file:///var/www/correcion_practicas/.idea/correcion_practicas.iml" filepath="/var/www/correcion_practicas/.idea/correcion_practicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/empresa_roles.iml" filepath="$PROJECT_DIR$/.idea/empresa_roles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../feria/.idea/feria.iml" filepath="$PROJECT_DIR$/../feria/.idea/feria.iml" />
+    </modules>
+  </component>
+</project>
